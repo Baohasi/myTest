@@ -32,6 +32,7 @@ Widget::Widget(QWidget *parent) :
 
     this->setWindowFlags(Qt::FramelessWindowHint);//没有边框
 //    this->move(QPoint(0,0));
+    // gihHub update v1.2
 
 //-----------------------------------------------------------------------------------------------------------------------------
 
