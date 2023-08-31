@@ -31,7 +31,7 @@ Widget::Widget(QWidget *parent) :
     this->setPalette(BackGroundPalette);
 
     this->setWindowFlags(Qt::FramelessWindowHint);//没有边框
-    this->move(QPoint(0,0));
+//    this->move(QPoint(0,0));
 
 //-----------------------------------------------------------------------------------------------------------------------------
 
